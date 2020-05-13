@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Russell Marx
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Student in Neuroscience
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Washington
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
+    institution: University of Washington
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
