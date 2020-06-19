@@ -28,7 +28,7 @@ The algae stays in place, so when I project an image on the thin layer of algae,
 
 {{< figure src="logo.jpg" title="Algae sourced from [Algae Research and Supply](https://algaeresearchsupply.com/)" lightbox="true" >}}
 
-{{< figure src="Algea%20%232%20-%20original%20negative.jpg" title="Algea #2 - original negative" lightbox="true" >}}
-{{< figure src="Algea%20%232.jpg" title="Algea #2" lightbox="true" >}}
+{{< figure src="Algea_2_original_negative.jpg" title="Algea #2 - original negative" lightbox="true" >}}
+{{< figure src="Algea_2.jpg" title="Algea #2" lightbox="true" >}}
 
 
